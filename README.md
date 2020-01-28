@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Cobrijani/jwt-security-spring-boot-starter) 
+
 # JWT security autoconfigure
 
 [![Build Status](https://travis-ci.org/Cobrijani/jwt-security-spring-boot-starter.svg?branch=master)](https://travis-ci.org/Cobrijani/jwt-security-spring-boot-starter)
